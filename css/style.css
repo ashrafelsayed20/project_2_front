@@ -900,13 +900,11 @@ button{
     padding: 0 2px;
 }
 .footer-place .footer-place-3 p a:hover{
-    text-decoration: underline;
-    letter-spacing: 1px;
+    transform: scale(1.1);
 }
 .footer-place .footer-place-3 p span i {
     animation: camAnimation .4s linear infinite alternate;
 }
-
 @keyframes camAnimation{
     0%{
         color: #4d4d4d;
