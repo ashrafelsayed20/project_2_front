@@ -69,7 +69,6 @@ button{
     color: #3B5A24;
     transform: rotateY(180deg);
 }
-
 /* place-2 */
 .place-2{
     height: 75px;
@@ -243,7 +242,6 @@ button{
 .place-3 .close:hover {
     color: #5B7F62;
 }
-
 .main-background{
     width: 100%;
     height: 90vh;
@@ -360,7 +358,6 @@ button{
     margin-top: 70px;
     position: relative;
 }
-
 .Best-place .the-Best{
     min-height: 50px;
     border-bottom: 1px solid #16161a70;
@@ -514,7 +511,6 @@ button{
     margin: 40px 0;
     overflow: hidden;
 }
-
 .back-info-overlay {
     position: absolute;
     width: 100%;
@@ -532,7 +528,6 @@ button{
     max-width: 900px;
     text-align: center;
 }
-
 .customer {
     display: flex;
     flex-direction: column;
@@ -713,7 +708,6 @@ button{
     color: #b5b5b5;
     padding-top: 15px;
 }
-
 .latest-news > div a {
     color: #fff;
     font-size: 20px;
@@ -722,7 +716,6 @@ button{
     text-decoration: none;
     transition: 0.3s;
 }
-
 .latest-news > div:hover a:not(.more) {
     color:#4B8B4A; 
 }
@@ -732,7 +725,6 @@ button{
     font-size: 16px;
     margin-bottom: 20px;
 }
-
 .latest-news > div .more {
     color: #fff;
     text-decoration: underline;
@@ -740,12 +732,10 @@ button{
     display: inline-block;
     transition: 0.3s;
 }
-
 .latest-news > div .more:hover {
     color: #4B8B4A;
     transform: scale(1.1);
 }
-
 /* End Of section five */
 
 .section-six {
@@ -756,7 +746,6 @@ button{
     margin: 80px 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
 .advantage {
     display: flex;
     justify-content: center; 
@@ -765,18 +754,15 @@ button{
     text-align: center;
     flex-wrap: wrap; 
 }
-
 .advantage > div {
     transition: all 0.5s ease;
 }
-
 .advantage div > div {
     width: 100%;
     height: 60px;
     overflow: hidden;
     position: relative;
 }
-
 .advantage div > div i {
     font-size: 48px;
     margin-bottom: 30px;
@@ -784,7 +770,6 @@ button{
     width: 100%;
     transition: transform 0.5s ease;
 }
-
 .advantage div div .icon {
     position: absolute;
     top: 0;
@@ -793,20 +778,17 @@ button{
     transform: translateY(65px);
     transition: transform 0.5s ease;
 }
-
-.advantage div:hover > div i {
-    transform: translateY(-50px);
-}
 .advantage div:hover div .icon {
     transform: translateY(0);
 }
-
+.advantage div:hover > div i {
+    transform: translateY(-50px);
+}
 .advantage h3 {
     color: #3B5A24;
     margin-top: 15px;
     font-size: 20px;
 }
-
 .advantage p {
     margin-top: 10px;
     color: #16161a;
